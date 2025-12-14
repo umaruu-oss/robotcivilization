@@ -1,6 +1,6 @@
 # robotcivilization
 
-[English version](Readme_English.txt)
+[English version](Readme_English.md)
 
 
 机器人时代文明：
