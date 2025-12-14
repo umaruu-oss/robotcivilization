@@ -1,7 +1,13 @@
 # robotcivilization
 
-[English version](Readme_English.md)
-
+| Flag | Language | Translation File |
+| :---: | :--- | :--- |
+| 🇺🇸 | **English** | [English](Readme_English.md) |
+| 🇨🇳 | **Chinese** | [简体中文](README.md) |
+| 🇪🇸 | **Spanish** | [Español](README_es.md) |
+| 🇫🇷 | **French** | [Français](README_fr.md) |
+| 🇩🇪 | **German** | [Deutsch](README_de.md) |
+| 🇷🇺 | **Russian** | [Русский](README_ru.md) |
 
 机器人时代文明：
 deepseek协助生成草稿，不假设人意识可转移，有想法的友友们一起探讨啊😋
