@@ -1,5 +1,9 @@
 # robotcivilization
 
+Robot Era Civilization imagine: 
+
+Core Concepts: Highly developed productivity driven by robots, socialized child-rearing, elimination of traditional family structures, decentralized open-source transparent AI management/execution/supervision, optional robot companions, pursuit of total equality from genes to education, 100% higher education, near-total recycling of assets post-mortem with minimal gifting, prohibition of non-medical genetic modification.
+
 | Flag | Language | Translation File |
 | :---: | :--- | :--- |
 | 🇺🇸 | **English** | [English](Readme_English.md) |
